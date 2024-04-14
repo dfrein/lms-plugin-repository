@@ -1,0 +1,8 @@
+<extensions>
+   <plugins>
+      <plugin name="BMPFonts" category="hardware" creator="Daniel Frein" email="daniel.frein@gmail.com" link="https://forums.slimdevices.com/forum/user-forums/general-discussion/111149-new-bitmap-fonts-for-transporter-and-sb2-sb3/" maxTarget="*" minTarget="7.0" sha="d3fa0bd48b4d014d88745bf62451887036a7e088" url="https://github.com/dfrein/lms-plugin-repository/raw/main/BMPFonts-1.0.zip" version="1.0">
+         <desc lang="EN">BMPFonts provides additional bitmap fonts for squeezeboxes with a VCD or OLED display (Transporter, SB2/3, Boom, squeezelite-esp32). The plugin consists of the fonts DINo, Neep, Spleen and Terminus. After installation of the plugin, the new fonts can be selected via the server settings for the specific device, in the display section.</desc>
+         <title lang="EN">BMPFonts Plugin</title>
+      </plugin>
+   </plugins>
+</extensions>
